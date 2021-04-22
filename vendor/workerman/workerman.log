@@ -1,0 +1,153 @@
+2017-12-07 00:08:59 pid:12105 Workerman[start.php] start in DEBUG mode
+2017-12-07 00:09:12 pid:12105 Workerman[start.php] stopping ...
+2017-12-07 00:09:12 pid:12105 Workerman[start.php] has been stopped
+2017-12-07 00:09:55 pid:12118 Workerman[start.php] start in DEBUG mode
+2017-12-07 00:11:13 pid:12118 Workerman[start.php] stopping ...
+2017-12-07 00:11:13 pid:12118 Workerman[start.php] has been stopped
+2017-12-07 19:23:50 pid:726 Workerman[start.php] start in DEBUG mode
+2017-12-07 19:30:49 pid:726 Workerman[start.php] stopping ...
+2017-12-07 19:30:49 pid:726 Workerman[start.php] has been stopped
+2017-12-07 19:30:50 pid:781 Workerman[start.php] start in DEBUG mode
+2017-12-07 20:10:20 pid:784 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(63) : eval()'d code on line 1"
+2017-12-07 20:10:20 pid:781 worker[YourAppBusinessWorker:784] exit with status 65280
+2017-12-07 20:10:26 pid:860 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(63) : eval()'d code on line 1"
+2017-12-07 20:10:26 pid:781 worker[YourAppBusinessWorker:860] exit with status 65280
+2017-12-07 20:12:21 pid:782 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(61) : eval()'d code on line 1"
+2017-12-07 20:12:21 pid:781 worker[YourAppBusinessWorker:782] exit with status 65280
+2017-12-07 20:12:21 pid:872 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(61) : eval()'d code on line 1"
+2017-12-07 20:12:21 pid:781 worker[YourAppBusinessWorker:872] exit with status 65280
+2017-12-07 20:15:48 pid:861 Worker process terminated with ERROR: E_ERROR "Class 'Index' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(49) : eval()'d code on line 1"
+2017-12-07 20:15:48 pid:781 worker[YourAppBusinessWorker:861] exit with status 65280
+2017-12-07 20:19:18 pid:879 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(50) : eval()'d code on line 1"
+2017-12-07 20:19:18 pid:781 worker[YourAppBusinessWorker:879] exit with status 65280
+2017-12-07 20:19:19 pid:893 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(50) : eval()'d code on line 1"
+2017-12-07 20:19:19 pid:781 worker[YourAppBusinessWorker:893] exit with status 65280
+2017-12-07 20:20:26 pid:894 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(50) : eval()'d code on line 1"
+2017-12-07 20:20:26 pid:781 worker[YourAppBusinessWorker:894] exit with status 65280
+2017-12-07 20:20:33 pid:785 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(50) : eval()'d code on line 1"
+2017-12-07 20:20:33 pid:781 worker[YourAppBusinessWorker:785] exit with status 65280
+2017-12-07 20:24:49 pid:903 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(35) : eval()'d code on line 1"
+2017-12-07 20:24:49 pid:781 worker[YourAppBusinessWorker:903] exit with status 65280
+2017-12-07 20:24:53 pid:873 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(35) : eval()'d code on line 1"
+2017-12-07 20:24:53 pid:781 worker[YourAppBusinessWorker:873] exit with status 65280
+2017-12-07 20:25:02 pid:912 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(35) : eval()'d code on line 1"
+2017-12-07 20:25:02 pid:781 worker[YourAppBusinessWorker:912] exit with status 65280
+2017-12-07 20:29:58 pid:909 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(35) : eval()'d code on line 1"
+2017-12-07 20:29:58 pid:781 worker[YourAppBusinessWorker:909] exit with status 65280
+2017-12-07 20:29:59 pid:923 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(35) : eval()'d code on line 1"
+2017-12-07 20:29:59 pid:781 worker[YourAppBusinessWorker:923] exit with status 65280
+2017-12-07 20:30:09 pid:924 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(35) : eval()'d code on line 1"
+2017-12-07 20:30:09 pid:781 worker[YourAppBusinessWorker:924] exit with status 65280
+2017-12-07 20:30:09 pid:928 Worker process terminated with ERROR: E_ERROR "Class 'IndexAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(35) : eval()'d code on line 1"
+2017-12-07 20:30:09 pid:781 worker[YourAppBusinessWorker:928] exit with status 65280
+2017-12-07 20:31:21 pid:781 Workerman[start.php] stopping ...
+2017-12-07 20:31:21 pid:781 Workerman[start.php] has been stopped
+2017-12-07 20:31:22 pid:934 Workerman[start.php] start in DEBUG mode
+2017-12-07 20:34:36 pid:934 Workerman[start.php] stopping ...
+2017-12-07 20:34:36 pid:934 Workerman[start.php] has been stopped
+2017-12-07 20:37:13 pid:956 Workerman[start.php] start in DEBUG mode
+2017-12-07 20:37:17 pid:956 Workerman[start.php] stopping ...
+2017-12-07 20:37:17 pid:956 Workerman[start.php] has been stopped
+2017-12-07 21:02:51 pid:1031 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:02:59 pid:1031 Workerman[start.php] stopping ...
+2017-12-07 21:02:59 pid:1031 Workerman[start.php] has been stopped
+2017-12-07 21:04:24 pid:1049 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:04:38 pid:1049 Workerman[start.php] stopping ...
+2017-12-07 21:04:38 pid:1049 Workerman[start.php] has been stopped
+2017-12-07 21:04:39 pid:1061 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:05:28 pid:1061 Workerman[start.php] stopping ...
+2017-12-07 21:05:28 pid:1061 Workerman[start.php] has been stopped
+2017-12-07 21:05:29 pid:1073 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:06:36 pid:1073 Workerman[start.php] stopping ...
+2017-12-07 21:06:36 pid:1073 Workerman[start.php] has been stopped
+2017-12-07 21:06:36 pid:1085 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:06:39 pid:1087 Worker process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required '/Users/pc/Desktop/GatewayWorker/Applications/YourApp/Applications/YourApp/inc/run.inc.php' (include_path='.:') in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/Events.php on line 59"
+2017-12-07 21:06:39 pid:1085 worker[YourAppBusinessWorker:1087] exit with status 65280
+2017-12-07 21:06:41 pid:1096 Worker process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required '/Users/pc/Desktop/GatewayWorker/Applications/YourApp/Applications/YourApp/inc/run.inc.php' (include_path='.:') in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/Events.php on line 59"
+2017-12-07 21:06:41 pid:1085 worker[YourAppBusinessWorker:1096] exit with status 65280
+2017-12-07 21:07:48 pid:1085 Workerman[start.php] stopping ...
+2017-12-07 21:07:48 pid:1085 Workerman[start.php] has been stopped
+2017-12-07 21:07:48 pid:1102 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:07:50 pid:1104 Worker process terminated with ERROR: E_ERROR "Call to undefined function f() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/class/category.class.php on line 12"
+2017-12-07 21:07:50 pid:1102 worker[YourAppBusinessWorker:1104] exit with status 65280
+2017-12-07 21:07:52 pid:1113 Worker process terminated with ERROR: E_ERROR "Call to undefined function f() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/class/category.class.php on line 12"
+2017-12-07 21:07:52 pid:1102 worker[YourAppBusinessWorker:1113] exit with status 65280
+2017-12-07 21:07:52 pid:1103 Worker process terminated with ERROR: E_ERROR "Call to undefined function f() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/class/category.class.php on line 12"
+2017-12-07 21:07:52 pid:1102 worker[YourAppBusinessWorker:1103] exit with status 65280
+2017-12-07 21:09:36 pid:1102 Workerman[start.php] stopping ...
+2017-12-07 21:09:36 pid:1102 Workerman[start.php] has been stopped
+2017-12-07 21:09:37 pid:1121 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:09:39 pid:1123 Worker process terminated with ERROR: E_ERROR "Call to undefined function session() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/c/index/LoginAction.class.php on line 148"
+2017-12-07 21:09:39 pid:1121 worker[YourAppBusinessWorker:1123] exit with status 65280
+2017-12-07 21:09:39 pid:1132 Worker process terminated with ERROR: E_ERROR "Call to undefined function session() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/c/index/LoginAction.class.php on line 148"
+2017-12-07 21:09:39 pid:1121 worker[YourAppBusinessWorker:1132] exit with status 65280
+2017-12-07 21:12:36 pid:1122 Worker process terminated with ERROR: E_ERROR "Call to undefined method stdClass::assign() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/class/parse.class.php on line 34"
+2017-12-07 21:12:36 pid:1121 worker[YourAppBusinessWorker:1122] exit with status 65280
+2017-12-07 21:12:36 pid:1154 Worker process terminated with ERROR: E_ERROR "Call to undefined method stdClass::assign() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/class/parse.class.php on line 34"
+2017-12-07 21:12:36 pid:1121 worker[YourAppBusinessWorker:1154] exit with status 65280
+2017-12-07 21:14:41 pid:1121 Workerman[start.php] stopping ...
+2017-12-07 21:14:41 pid:1121 Workerman[start.php] has been stopped
+2017-12-07 21:14:42 pid:1164 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:14:44 pid:1166 Worker process terminated with ERROR: E_ERROR "Call to undefined function session() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/c/index/LoginAction.class.php on line 148"
+2017-12-07 21:14:44 pid:1164 worker[YourAppBusinessWorker:1166] exit with status 65280
+2017-12-07 21:16:12 pid:1175 Worker process terminated with ERROR: E_ERROR "Call to undefined function session() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/c/index/LoginAction.class.php on line 148"
+2017-12-07 21:16:12 pid:1164 worker[YourAppBusinessWorker:1175] exit with status 65280
+2017-12-07 21:18:23 pid:1164 Workerman[start.php] stopping ...
+2017-12-07 21:18:23 pid:1164 Workerman[start.php] has been stopped
+2017-12-07 21:18:24 pid:1185 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:18:27 pid:1186 Worker process terminated with ERROR: E_ERROR "Call to undefined function session() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/c/index/LoginAction.class.php on line 148"
+2017-12-07 21:18:27 pid:1185 worker[YourAppBusinessWorker:1186] exit with status 65280
+2017-12-07 21:19:04 pid:1185 Workerman[start.php] stopping ...
+2017-12-07 21:19:04 pid:1185 Workerman[start.php] has been stopped
+2017-12-07 21:19:05 pid:1200 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:19:08 pid:1202 Worker process terminated with ERROR: E_ERROR "Class 'LoginAction' not found in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/c/index/HomeAction.class.php on line 58"
+2017-12-07 21:19:08 pid:1200 worker[YourAppBusinessWorker:1202] exit with status 65280
+2017-12-07 21:20:20 pid:1211 Worker process terminated with ERROR: E_ERROR "Call to undefined method stdClass::assign() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/class/parse.class.php on line 34"
+2017-12-07 21:20:20 pid:1200 worker[YourAppBusinessWorker:1211] exit with status 65280
+2017-12-07 21:20:21 pid:1216 Worker process terminated with ERROR: E_ERROR "Call to undefined method stdClass::assign() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/class/parse.class.php on line 34"
+2017-12-07 21:20:21 pid:1200 worker[YourAppBusinessWorker:1216] exit with status 65280
+2017-12-07 21:21:50 pid:1200 Workerman[start.php] stopping ...
+2017-12-07 21:21:50 pid:1200 Workerman[start.php] has been stopped
+2017-12-07 21:21:52 pid:1222 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:21:56 pid:1225 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare requireClassName() (previously declared in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php:11) in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php on line 25"
+2017-12-07 21:21:56 pid:1222 worker[YourAppBusinessWorker:1225] exit with status 65280
+2017-12-07 21:23:17 pid:1223 Worker process terminated with ERROR: E_ERROR "Call to undefined method stdClass::assign() in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/class/parse.class.php on line 34"
+2017-12-07 21:23:17 pid:1222 worker[YourAppBusinessWorker:1223] exit with status 65280
+2017-12-07 21:24:07 pid:1222 Workerman[start.php] stopping ...
+2017-12-07 21:24:07 pid:1222 Workerman[start.php] has been stopped
+2017-12-07 21:24:09 pid:1247 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:24:12 pid:1251 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare requireClassName() (previously declared in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php:11) in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php on line 25"
+2017-12-07 21:24:12 pid:1247 worker[YourAppBusinessWorker:1251] exit with status 65280
+2017-12-07 21:24:58 pid:1247 Workerman[start.php] stopping ...
+2017-12-07 21:24:58 pid:1247 Workerman[start.php] has been stopped
+2017-12-07 21:26:19 pid:1268 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:26:30 pid:1269 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare requireClassName() (previously declared in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php:11) in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php on line 25"
+2017-12-07 21:26:30 pid:1268 worker[YourAppBusinessWorker:1269] exit with status 65280
+2017-12-07 21:33:46 pid:1268 Workerman[start.php] stopping ...
+2017-12-07 21:33:46 pid:1268 Workerman[start.php] has been stopped
+2017-12-07 21:33:49 pid:1302 Workerman[start.php] start in DEBUG mode
+2017-12-07 21:33:57 pid:1306 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare print_s() (previously declared in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/function/common.php:11) in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/function/common.php on line 19"
+2017-12-07 21:33:57 pid:1302 worker[YourAppBusinessWorker:1306] exit with status 65280
+2017-12-07 21:36:52 pid:1303 exception 'LogicException' with message 'Function 'requireClassName' not found (function 'requireClassName' not found or invalid function name)' in /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php:12
+Stack trace:
+#0 /Users/pc/Desktop/GatewayWorker/Applications/YourApp/inc/run.inc.php(12): spl_autoload_register('requireClassNam...')
+#1 /Users/pc/Desktop/GatewayWorker/Applications/YourApp/Events.php(59): require('/Users/pc/Deskt...')
+#2 [internal function]: Events::onMessage('7f0000010b54000...', 'login:367')
+#3 /Users/pc/Desktop/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', 'login:367')
+#4 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#5 /Users/pc/Desktop/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #42)
+#7 /Users/pc/Desktop/GatewayWorker/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#8 /Users/pc/Desktop/GatewayWorker/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#9 /Users/pc/Desktop/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#10 /Users/pc/Desktop/GatewayWorker/vendor/workerman/workerman/Worker.php(1294): GatewayWorker\BusinessWorker->run()
+#11 /Users/pc/Desktop/GatewayWorker/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#12 /Users/pc/Desktop/GatewayWorker/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#13 /Users/pc/Desktop/GatewayWorker/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#14 /Users/pc/Desktop/GatewayWorker/start.php(47): Workerman\Worker::runAll()
+#15 {main}
+2017-12-07 21:36:52 pid:1303 Worker process terminated
+2017-12-07 21:36:52 pid:1302 worker[YourAppBusinessWorker:1303] exit with status 64000
+2017-12-07 21:37:08 pid:1302 Workerman[start.php] stopping ...
+2017-12-07 21:37:08 pid:1302 Workerman[start.php] has been stopped
+2017-12-07 21:37:09 pid:1328 Workerman[start.php] start in DEBUG mode
