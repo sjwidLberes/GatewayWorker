@@ -70,5 +70,10 @@ class DataModel{
         $this->setRoomData($roomid,$roomData);
         return true;
     }
+    //todo 取得游戏状态
+    public function getGameStatus($roomid){
+        $roomData=$this->getRoomData($roomid);
+        return $roomData['status'];
+    }
 }
 ?>
