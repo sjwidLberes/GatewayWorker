@@ -20,7 +20,6 @@
 //declare(ticks=1);
 
 use \GatewayWorker\Lib\Gateway;
-
 /**
  * 主逻辑
  * 主要是处理 onConnect onMessage onClose 三个方法
@@ -55,7 +54,7 @@ class Events
        //数据解析
        $SocketData=json_decode($message);
        global $SocketData;
-
+       Gateway::joinGroup($client_id);
        require dirname(__FILE__).'/inc/run.inc.php';
        Gateway::sendToAll("$client_id said $message");
    }
