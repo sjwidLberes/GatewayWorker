@@ -18,7 +18,7 @@ use \GatewayWorker\BusinessWorker;
 use \Workerman\Autoloader;
 
 // gateway 进程，这里使用Text协议，可以用telnet测试
-$gateway = new Gateway("WebSocket://0.0.0.0:8282");
+$gateway = new Gateway("Websocket://0.0.0.0:8282");
 // gateway名称，status方便查看
 $gateway->name = 'YourAppGateway';
 // gateway进程数
@@ -36,9 +36,9 @@ $gateway->registerAddress = '127.0.0.1:1238';
 // 心跳数据
 //$gateway->pingData = '{"type":"ping"}';
 
-/* 
+
 // 当客户端连接上来时，设置连接的onWebSocketConnect，即在websocket握手时的回调
-$gateway->onConnect = function($connection)
+/*$gateway->onConnect = function($connection)
 {
     $connection->onWebSocketConnect = function($connection , $http_header)
     {
@@ -51,8 +51,8 @@ $gateway->onConnect = function($connection)
         // onWebSocketConnect 里面$_GET $_SERVER是可用的
         // var_dump($_GET, $_SERVER);
     };
-}; 
-*/
+}; */
+
 
 // 如果不是在根目录启动，则运行runAll方法
 if(!defined('GLOBAL_START')) {
