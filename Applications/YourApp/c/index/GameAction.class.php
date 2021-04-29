@@ -24,5 +24,9 @@ class GameAction extends HomeAction{
     public function award(){
 
     }
+    //用户推出房间的方法
+    public function outgame(){
+
+    }
 }
 ?>
