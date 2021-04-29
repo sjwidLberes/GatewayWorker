@@ -16,7 +16,12 @@ class IndexAction extends HomeAction{
 
     //荷官发送打点数
     public function sendnum(){
-        
+
+    }
+
+    //手动结束游戏
+    public function gameend(){
+
     }
 }
 ?>
