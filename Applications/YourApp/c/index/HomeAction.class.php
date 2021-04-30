@@ -10,10 +10,11 @@ class HomeAction extends Action{
     protected $username;
 	protected $l; //语言文字
     protected $loginstate;//用户登录状态
+    private static $GameData;
     protected function __construct() {
         parent::__construct();
         global $l;
-        $this->l = $l;
+
     }
 
 }
