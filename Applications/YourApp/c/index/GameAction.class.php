@@ -6,19 +6,13 @@
  */
 defined('LMXCMS') or exit();
 class GameAction extends HomeAction{
-    public $SocketData=null;
     public function __construct(){
         parent::__construct();
-        global $SocketData;
-        if($this->SocketData==null){
-            $this->SocketData=$SocketData;
-        }
     }
 
     //用户从列表页面进入游戏房间  判断游戏状态  返回初始化数据给客户端
     public function index(){
-        $GameModle=new Game();
-        $nowStatus=$GameModle->getNowStatus();
+
     }
 
     //用户的投币方法 接收用户的投币数据  返回用户当前所属状态和
