@@ -5,18 +5,20 @@
  *   前台栏目页面控制器
  */
 defined('LMXCMS') or exit();
-use \GatewayWorker\Lib\Gateway;
 class GameAction extends HomeAction{
-    private $SocketData;
+    public $SocketData=null;
     public function __construct(){
         parent::__construct();
         global $SocketData;
-        $this->SocketData=$SocketData;
+        if($this->SocketData==null){
+            $this->SocketData=$SocketData;
+        }
     }
 
     //用户从列表页面进入游戏房间  判断游戏状态  返回初始化数据给客户端
     public function index(){
-
+        $GameModle=new Game();
+        $nowStatus=$GameModle->getNowStatus();
     }
 
     //用户的投币方法 接收用户的投币数据  返回用户当前所属状态和
@@ -31,10 +33,6 @@ class GameAction extends HomeAction{
     //用户推出房间的方法
     public function outgame(){
 
-    }
-    //todo 绑定登录数据
-    public function login(){
-        Gateway::bindUid($this->SocketData['client_id'],$this->SocketData['uid']);
     }
 }
 ?>
